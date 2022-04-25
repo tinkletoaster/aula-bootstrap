@@ -1,0 +1,42 @@
+.body {
+    font: 20px Arial, sans-serif;
+}
+
+.quem-somos {
+    background-color: #d1d1d1;
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.parceiros {
+    background-color: #c0c0c0;
+}
+
+.servicos-texto {
+    margin-bottom: 30px;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+    padding-bottom: ;
+}
+
+.last-txt {
+    font-size: 10px;
+}
+
+.antilast {
+    margin: 5px;
+}
+
+.timeimg {
+    margin-bottom: 15px;
+}
+
+.carrosel {
+    margin-left: 50px;
+}
